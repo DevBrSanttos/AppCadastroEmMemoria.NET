@@ -1,0 +1,16 @@
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\bin\Debug\net5.0\ProjetoConsoleDIO.exe
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\bin\Debug\net5.0\ProjetoConsoleDIO.deps.json
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\bin\Debug\net5.0\ProjetoConsoleDIO.runtimeconfig.json
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\bin\Debug\net5.0\ProjetoConsoleDIO.runtimeconfig.dev.json
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\bin\Debug\net5.0\ProjetoConsoleDIO.dll
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\bin\Debug\net5.0\ref\ProjetoConsoleDIO.dll
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\bin\Debug\net5.0\ProjetoConsoleDIO.pdb
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.csprojAssemblyReference.cache
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.AssemblyInfoInputs.cache
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.AssemblyInfo.cs
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.csproj.CoreCompileInputs.cache
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.dll
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ref\ProjetoConsoleDIO.dll
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.pdb
+c:\Users\Ane\Desktop\ProjetoConsoleDIO\obj\Debug\net5.0\ProjetoConsoleDIO.genruntimeconfig.cache
